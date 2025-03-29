@@ -335,7 +335,7 @@ int main( void ) {
 -   <span class="package-name">[`@stdlib/stats-strided/dmeanpw`][@stdlib/stats/strided/dmeanpw]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a double-precision floating-point strided array using pairwise summation.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/dsmean`][@stdlib/stats/strided/dsmean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array using extended accumulation and returning an extended precision result.</span>
 -   <span class="package-name">[`@stdlib/stats-base/meanpw`][@stdlib/stats/base/meanpw]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a strided array using pairwise summation.</span>
--   <span class="package-name">[`@stdlib/stats-base/smeanpw`][@stdlib/stats/base/smeanpw]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array using pairwise summation.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/smeanpw`][@stdlib/stats/strided/smeanpw]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array using pairwise summation.</span>
 
 </section>
 
@@ -429,7 +429,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/base/meanpw]: https://github.com/stdlib-js/stats-base-meanpw
 
-[@stdlib/stats/base/smeanpw]: https://github.com/stdlib-js/stats-base-smeanpw
+[@stdlib/stats/strided/smeanpw]: https://github.com/stdlib-js/stats-strided-smeanpw
 
 <!-- </related-links> -->
 
